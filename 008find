@@ -1,0 +1,11 @@
+find [dir] -type f -name "*.php"
+find [dir] -type f -iname "*.php"
+//type可以是f（文件）或者d（路径）
+
+-perm //Permissions // 0664
+
+-size 1M
+-size +1M
+-size -1M
+-not
+-maxdepth

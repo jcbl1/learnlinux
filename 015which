@@ -1,0 +1,2 @@
+//which可以查找PATH中的命令的绝对路径
+which go

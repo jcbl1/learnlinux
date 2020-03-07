@@ -1,0 +1,4 @@
+chown user:group file
+chmod xxx file
+
+-R

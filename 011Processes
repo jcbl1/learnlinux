@@ -1,0 +1,7 @@
+top
+ps aux
+ps aux | grep "processname"
+pgrep processname
+
+kill -9 [PID]
+killall processname

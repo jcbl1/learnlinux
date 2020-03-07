@@ -1,0 +1,2 @@
+//tee能够把Terminal中的内容保存到文件中
+| tee filename

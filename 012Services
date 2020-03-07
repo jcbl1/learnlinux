@@ -1,0 +1,3 @@
+service servicename [command] // [command] could be: start stop reload restart
+systemctl [command] servicename // 同上
+

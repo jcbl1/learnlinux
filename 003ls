@@ -1,0 +1,3 @@
+-r reverse
+-p path
+-s sort by size

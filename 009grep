@@ -1,0 +1,7 @@
+grep "something" filename
+
+-i //ignore case
+-n //show line number
+
+
+find [dir] -name "file" -exec grep "something" {} + //find与grep结合

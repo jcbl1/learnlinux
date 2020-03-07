@@ -1,0 +1,5 @@
+install
+remove
+apt-cache search gimp
+apt-cache policy gimp
+upgrade
